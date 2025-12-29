@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kipkemei-Tele&theme=react&date_format=M%20j%5B,%20Y%5D" alt="Kipkemei Tele's GitHub streak" />
+</p>
+
 <!--
 **Kipkemei-Tele/Kipkemei-Tele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

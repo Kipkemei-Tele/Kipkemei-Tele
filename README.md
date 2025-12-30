@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning HTML
-
+-I love coding
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kipkemei-Tele&theme=react&date_format=M%20j%5B,%20Y%5D" alt="Kipkemei Tele's GitHub streak" />

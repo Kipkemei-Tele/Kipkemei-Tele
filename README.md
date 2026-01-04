@@ -1,5 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning HTML
+I wish to learn more about coding ang programing
 
 
 

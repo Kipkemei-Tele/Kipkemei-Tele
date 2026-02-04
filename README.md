@@ -1,7 +1,6 @@
 ## Hi there 👋
 🌱 I’m currently learning HTML
 - 👯 I’m looking to collaborate on HTML
--  🌱 I’m currently learning 
 
 
 

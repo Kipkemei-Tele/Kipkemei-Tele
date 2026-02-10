@@ -1,7 +1,8 @@
 ## Hi there 👋
 🌱 I’m currently learning HTML
 - 🔭 I’m currently working on many things.
--🤔 I’m looking for help with
+-🤔 I’m looking for help with coding
+
 
 
 

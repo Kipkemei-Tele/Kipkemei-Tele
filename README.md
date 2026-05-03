@@ -1,6 +1,6 @@
 ## Hi there 👋
  🌱 I’m currently learning HTML
-- 🔭 I’m currently WORKING
+- 🔭 I’m currently W
   
 
 
